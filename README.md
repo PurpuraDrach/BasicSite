@@ -1,3 +1,3 @@
 # BasicSite
 
-A site to play around with
+Don't mind me I'm just playing around with stuff
